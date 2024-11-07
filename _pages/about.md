@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Li Haotian the received B.S. degree in computer science from Hohai University, Nanjing, China, in 2018, and the Ph.D. degree in computer science from Hohai University, Nanjing, China, in 2024. He is currently a young Lecturer in the Department of Big Data Management and Application at Nanjing Audit University.
+Li Haotian received the B.S. degree in computer science from Hohai University, Nanjing, China, in 2018, and the Ph.D. degree in computer science from Hohai University, Nanjing, China, in 2024. He is currently a young Lecturer in the Department of Big Data Management and Application at Nanjing Audit University.
 
 # Research Interests
 1. Mathematical optimization (convex analysis and nonlinear optimization, solution existence and convergence analysis, operations research);
