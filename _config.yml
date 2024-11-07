@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haotian Li / Site" #"Your Name / Site Title"
+title                    : "Li Site" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Haotian Li" #"Your Name"
 description              : &description "Nanjing Audit University"
@@ -28,7 +28,7 @@ author:
   location         : "Nanjing, China"
   employer         : "Nanjing Audit University"
   uri              : # URL
-  email            : "lihtian@foxmail.com" 
+  email            : lihtian@foxmail.com "lihtian@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
