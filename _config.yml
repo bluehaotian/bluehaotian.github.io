@@ -12,7 +12,7 @@ title                    : "Haotian Li / Site" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Haotian Li / 李浩天" #"Your Name"
 description              : &description "Nanjing Audit University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bluehaotian.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
