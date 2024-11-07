@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student from [School of EEcS](https:/eecs.pku.edu.cn/, Peking Universityl(htps:/www.pku.edu.cn/)My research interest includes computer vision ] , computer graphics, machine learning, and computational photography.
-I am very fortunate to be advised by [Prof. XXXl(hitps:/lwww.XXX.com/) of XXX Lab9 from [School of Computer Sciencel(https://cs.pku.edu.cn/, Peking University. l was advised by [Prof. XX(https:/XXX.pku.edu.cn/) from [School of Computer Sciencel(https://cs.pku.edu.cn/), Peking University.
+I am a third year undergraduate student from [School of EEcS](https:/eecs.pku.edu.cn/), [Peking University](htps:/www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am very fortunate to be advised by [Prof. XXXl](hitps:/lwww.XXX.com/) of XXX Lab9 from [School of Computer Sciencel](https://cs.pku.edu.cn/), Peking University. l was advised by [Prof. XX](https:/XXX.pku.edu.cn/) from [School of Computer Sciencel](https://cs.pku.edu.cn/), Peking University.
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
 [Emall(mailto:Xx@stu.pku.edu.cn) / [Github](https:/lgithub.com/QiuDi233) / [Wechat(../images/wechat.jpg) /[CSDN](https://blog.csdn.net/gd1813100174?spm=1000.2115.3001.5343)
 
