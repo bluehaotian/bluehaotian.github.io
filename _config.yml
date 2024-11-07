@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Haotian Li / 李浩天" #"Your Sidebar Name"
+  name             : "Haotian Li 李浩天" #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Computer Network"
   location         : "Nanjing, China"
   employer         : "Nanjing Audit University"
   uri              : # URL
-  email            : &"lihtian@foxmail.com" "lihtian@foxmail.com" 
+  email            : &lihtian@foxmail.com "lihtian@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
