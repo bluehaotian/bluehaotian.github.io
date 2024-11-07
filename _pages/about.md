@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 
-Li Haotian received B.S. degree in computer science from Hohai University, Nanjing, China, in 2018, and Ph.D. degree in computer science from Hohai University , Nanjing, China, in 2024. He is currently a young Lecturer in the Department of Big Data Management and Application at Nanjing Audit University.
+Li Haotian the received B.S. degree in computer science from Hohai University, Nanjing, China, in 2018, and the Ph.D. degree in computer science from Hohai University, Nanjing, China, in 2024. He is currently a young Lecturer in the Department of Big Data Management and Application at Nanjing Audit University.
 
-# this is 一级标题
+# Research Interests
+1. Mathematical optimization (convex analysis and nonlinear optimization, solution existence and convergence analysis, operations research);
+2. Resource management (ubiquitous computing network, computer network, Internet of Vehicles, low-altitude network);
+3. Big data analysis (medical big data and management, wireless sensing and health monitoring, underwater optical communication), etc.
+
 I am a third year undergraduate student from [School of EEcS](https:/eecs.pku.edu.cn/), [Peking University](htps:/www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 I am very fortunate to be advised by [Prof. XXXl](hitps:/lwww.XXX.com/) of XXX Lab9 from [School of Computer Sciencel](https:/cs.pku.edu.cn/), Peking University. l was advised by [Prof. XX](https:/XXX.pku.edu.cn/) from [School of Computer Sciencel](https:/cs.pku.edu.cn/), Peking University.
 
