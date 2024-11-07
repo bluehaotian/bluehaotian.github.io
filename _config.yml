@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Haotian Li / Site" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Haotian Li / 李浩天" #"Your Name"
+name                     : &name "Haotian Li" #"Your Name"
 description              : &description "Nanjing Audit University"
-url                      : https://bluehaotian.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bluehaotian.github.io/" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,22 +22,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Haotian Li" #"Your Sidebar Name"
+  name             : "Haotian Li / 李浩天" #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Network"
   location         : "Nanjing, China"
-  employer         : "Red Brick University"
+  employer         : "Nanjing Audit University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lihtian@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # https://www.researchgate.net/profile/Haotian_Li26
   scopus           : # URL
 
   # Repositories and software development
