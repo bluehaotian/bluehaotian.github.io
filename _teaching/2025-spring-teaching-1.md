@@ -1,9 +1,9 @@
 ---
-title: "机器学习"
+title: "xxx"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/spring-teaching-1
-venue: "南京审计大学, 大数据管理与应用系"
+venue: "dx, xx"
 date: 2025-03-01
 location: "Nanjing, China"
 ---
